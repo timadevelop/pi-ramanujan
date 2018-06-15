@@ -1,0 +1,78 @@
+//
+// asus rog g750
+// Intel i7-4700HQ
+//
+
+//
+// 2 x Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+//
+
+// -p 1000
+
+[u855271@t5600 project]$ ./test.sh                                                                                                                                                                                                                                                                                                                                     [1/96]
+in 2.49351 seconds / using 1 thread(s)
+in 1.85725 seconds / using 2 thread(s)
+in 1.40941 seconds / using 3 thread(s)
+in 1.12465 seconds / using 4 thread(s)
+in 0.896765 seconds / using 5 thread(s)
+in 0.775523 seconds / using 6 thread(s)
+in 0.684615 seconds / using 7 thread(s)
+in 0.601683 seconds / using 8 thread(s)
+in 0.554186 seconds / using 9 thread(s)
+in 0.495736 seconds / using 10 thread(s)
+in 0.514224 seconds / using 11 thread(s)
+in 0.418915 seconds / using 12 thread(s)
+in 0.423514 seconds / using 13 thread(s)
+in 0.412177 seconds / using 14 thread(s)
+in 0.395865 seconds / using 15 thread(s)
+in 0.363498 seconds / using 16 thread(s)
+in 0.356601 seconds / using 17 thread(s)
+in 0.335142 seconds / using 18 thread(s)
+in 0.331487 seconds / using 19 thread(s)
+in 0.291878 seconds / using 20 thread(s)
+in 0.341339 seconds / using 21 thread(s)
+in 0.28819 seconds / using 22 thread(s)
+in 0.280771 seconds / using 23 thread(s)
+in 0.302431 seconds / using 24 thread(s)
+in 0.231714 seconds / using 25 thread(s)
+in 0.295368 seconds / using 26 thread(s)
+in 0.221735 seconds / using 27 thread(s)
+in 0.309428 seconds / using 28 thread(s)
+in 0.266393 seconds / using 29 thread(s)
+in 0.248806 seconds / using 30 thread(s)
+in 0.216251 seconds / using 31 thread(s)
+in 0.231382 seconds / using 32 thread(s)
+
+[u855271@t5600 project]$ ./test.sh 3000
+in 22.1934 seconds / using 1 thread(s)
+in 16.8002 seconds / using 2 thread(s)
+in 12.4696 seconds / using 3 thread(s)
+in 9.78158 seconds / using 4 thread(s)
+in 8.07078 seconds / using 5 thread(s)
+in 6.83673 seconds / using 6 thread(s)
+in 6.01406 seconds / using 7 thread(s)
+in 5.26137 seconds / using 8 thread(s)
+in 4.72361 seconds / using 9 thread(s)
+in 4.23795 seconds / using 10 thread(s)
+in 3.99751 seconds / using 11 thread(s)
+in 3.56833 seconds / using 12 thread(s)
+in 3.44747 seconds / using 13 thread(s)
+in 3.20235 seconds / using 14 thread(s)
+in 2.9049 seconds / using 15 thread(s)
+in 2.88468 seconds / using 16 thread(s)
+in 2.70201 seconds / using 17 thread(s)
+in 2.63438 seconds / using 18 thread(s)
+in 2.58806 seconds / using 19 thread(s)
+in 2.22512 seconds / using 20 thread(s)
+in 2.48133 seconds / using 21 thread(s)
+in 2.21414 seconds / using 22 thread(s)
+in 2.31801 seconds / using 23 thread(s)
+in 1.91848 seconds / using 24 thread(s)
+in 1.86709 seconds / using 25 thread(s)
+in 2.00462 seconds / using 26 thread(s)
+in 1.98732 seconds / using 27 thread(s)
+in 1.84989 seconds / using 28 thread(s)
+in 1.95671 seconds / using 29 thread(s)
+in 1.82488 seconds / using 30 thread(s)
+in 2.10737 seconds / using 31 thread(s)
+in 2.1223 seconds / using 32 thread(s)
